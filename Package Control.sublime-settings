@@ -1,12 +1,13 @@
 {
-	"auto_upgrade_last_run": 1332791984,
+	"auto_upgrade_last_run": 1352883588,
 	"installed_packages":
 	[
 		"CoffeeScript",
 		"DetectSyntax",
+		"EJS",
 		"IcedCoffeeScript",
+		"Indent XML",
 		"Package Control",
-		"SublimeOnSaveBuild",
 		"Theme - Soda",
 		"Twig",
 		"ZenCoding"

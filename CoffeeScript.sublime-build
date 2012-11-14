@@ -1,0 +1,5 @@
+{
+"path": "/home/charles/.nvm/v0.6.15/bin",
+"cmd": ["coffee", "$file"],
+"selector" : "source.coffee",
+"path" : "/usr/bin"}
